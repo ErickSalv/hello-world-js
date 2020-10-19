@@ -8,3 +8,6 @@ function sayHello(fromPerson, toPerson) {
 }
 
 sayHello('Alice', 'Bob'); // Should return 'Alice says "Hello!" to Bob'
+
+// DO NOT CHANGE ANYTHING AFTER THIS LINE.
+module.exports = sayHello;
