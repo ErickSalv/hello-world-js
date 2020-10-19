@@ -1,4 +1,4 @@
-const sayHello = require('./sayHello');
+const sayHello = require('./say-hello');
 
 test('should returns \'A says "Hello!" to B\'', () => {
   expect(sayHello('A', 'B')).toBe('A says "Hello!" to B');
