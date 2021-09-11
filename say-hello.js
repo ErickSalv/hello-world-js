@@ -3,7 +3,7 @@
 // @param toPerson The name of the person that the other person says "Hello!" to.
 function sayHello(fromPerson, toPerson) {
   // TODO: Finish the right side of the next line. Do not change anything else.
-  let result = '';
+  let result = 'Say, Hello';
   return result;
 }
 
